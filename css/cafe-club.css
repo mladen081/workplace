@@ -1,3 +1,9 @@
+/* black #191A19 */
+/* dark green #1E5128 */
+/* light green #4E9F3D */
+/* light #D8E9A8 */
+
+
 * {
     margin: 0;
     padding: 0;
@@ -38,11 +44,11 @@ body {
 .nav-links {
     text-align: center;
     /* border-top: 2px solid #fefefe; */
-    border-top: 2px solid #000;
+    border-top: 2px solid #D8E9A8;
     padding: 12px 0;
 }
 .nav-links a {
-    color: #fff;
+    color: #D8E9A8;
     padding: 0 10px;
     text-transform: uppercase;
     font-family: "Roboto" sans-serif;
@@ -58,10 +64,10 @@ body {
 
 .first {
     height: 500px;
-    background-color: #000;
+    background-color: #1E5128;
 }
 
 .second {
     height: 500px;
-    background-color: gray;
+    background-color: #4E9F3D;
 }
